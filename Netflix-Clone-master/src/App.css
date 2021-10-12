@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    font-family: cursive;
+}
+.app{
+    background-color: #111111;
+}
+img{
+    border-radius: 2px !important;
+}
